@@ -1,2 +1,2 @@
 # gerador_senha_forte
-JSX, NEXT.JS, TAILWIND
+TS, NEXT.JS, TAILWIND
